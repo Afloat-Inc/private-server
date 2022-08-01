@@ -1,6 +1,6 @@
-# Hashed Private Server
+# Private Server
 
-Provides the backend services for Hashed Private solution:
+Provides the backend services for Private Dpcuments:
 
 - Enables the user to authenticate with the service by sigining a challenge message with the private key related to their on chain account
 - Securly stores the user's private cipher key used to encrypt their owned payloads, this key is not the one related to their on chain account.
